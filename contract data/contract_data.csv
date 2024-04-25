@@ -1,52 +1,48 @@
-Name,Room Type,Bathroom Type,Price(£/week),Contract Cost(£),Contract Length(week),Size Approximation(m²)
-College Hall,Single room ,Shared bathroom,289.73," 11,547.81",40,12
-College Hall,Single en suite room ,Private bathroom,332.43," 13,249.71",40,14
-College Hall,Double en suite room ,Private bathroom,392.63," 15,649.11",40,17
-International Hall,Single room,Shared bathroom,266.28," 10,613.16",40,8.95
-International Hall,Single studio,Private bathroom,294.98-301.28," 11,757.06 - 12,008.16",40,16.4 - 18.9
-International Hall,Double studio,Private bathroom,321.93," 12,831.21",40,18.9
-Butler's Wharf Residence,Single room,Shared bathroom,194.60-267.40," 9,702.20 - 13,331.80",50,10
-Butler's Wharf Residence,Twin room,Shared bathroom,127.40-153.65," 6,351.80 - 7,660.55",50,14
-Butler's Wharf Residence,Double room,Shared bathroom,278.95," 13,907.65",50,15
-Bankside House,Single room,Shared bathroom,259.70," 10,091.20",39,12.5
-Bankside House,Single en suite room,Private bathroom,277.20-297.15," 10,771.20 - 11,546.40",39,15.66 - 17.11
-Bankside House,Twin en suite room,Private bathroom,167.65-186.20," 6,514.40 - 7,235.20",39,23.55 - 25.32
-Carr-Saunders Hall,Single room,Shared bathroom,257.25," 7,827.75",31,9
-Carr-Saunders Hall,Single room with queen bed,Shared bathroom,259.35," 7,891.65",31,9
-Carr-Saunders Hall,Twin room,Shared bathroom,173.25," 5,271.75",31,20
-Carr-Saunders Hall,Twin en suite room,Private bathroom,185.50," 5,644.50",31,20
-Connaught Hall,Single room,Shared bathroom,273.63," 10,906.11",40,9
-High Holborn Residence,Single room,Shared bathroom,317.80," 12,348.80",39,9.5 - 12.6
-High Holborn Residence,Single room with queen bed,Shared bathroom,333.90," 12,974.40",39,9.5 - 12.6
-High Holborn Residence,Single en suite room,Private bathroom,333.20," 12,947.20",39,9.5 - 12.6
-High Holborn Residence,Twin en suite room,Private bathroom,184.45," 7,167.20",39,16
-urbanest Westminster Bridge,Single room,Shared bathroom,285.23-310.76,"11,123.97 - 12,119.64",39,8.5
-urbanest Westminster Bridge,Single en suite room,Private bathroom,286.90-346.90,"12,224.55 - 12,722.58",39,13.4
-urbanest Westminster Bridge,Twin en suite room,Private bathroom,227.09-240.22,"£8,856.51 - 9,368.58",39,25.3
-urbanest Westminster Bridge,Single studio,Private bathoom,420.03-458.32,"21,001.50 - 22,916.00",50,22.1
-Lilian Knowles House,Single en suite room,Private bathroom,198.86-242.35,"7,727.13 - 9,417.03",39,8 - 14
-Lilian Knowles House,Single studio,Private bathroom,263.59-303.15,"13,141.84 - 15,114.19",50,12 - 22
-Lilian Knowles House,One-bed flat,Private bathroom,303.15-336.43,"15,114.19 - 16,773.44",50,21 - 27
-Passfield Hall,Single room,Shared bathroom,231.00-274.75," 7,029.00 - 8,360.25",31,6.2 - 15.3
-Passfield Hall,Single en suite room,Private bathroom,287.35," 8,743.65",31,9
-Passfield Hall,Twin room,Shared bathroom,158.90-166.60," 4,835.10 - 5,069.40",31,17.6 - 23
-Passfield Hall,Twin en suite room,Private bathroom,182.70," 5,559.30",31,17.6 - 23
-Passfield Hall,Triple room,Shared bathroom,129.85-140.70,"  3,951.15 - 4,281.30",31,31 
-Nutford House,Single room,Shared bathroom,236.88-263.48," 9,441.36 - 10,501.56",40,6.4
-Nutford House,Twin room,Shared bathroom,183.40,"7,309.80",40,6.4
-Rosebery Hall,Single room,Shared bathroom,247.80-263.90,"9,628.80 - 10,254.40",39,10.5 - 11
-Rosebery Hall,Twin room,Shared bathroom,168.70," 6,555.20",39,15.5 - 17.5
-Rosebery Hall,Twin en suite room,Private bathroom,185.50," 7,208.00",39,17.5
-The Garden Halls,Single room ,Shared bathroom,269.64-288.75," 10,747.08 - 11,508.75",40,10
-The Garden Halls,Single en suite room,Private bathroom,358.61," 14,293.17",40,12.60 - 15.50
-The Garden Halls,Single en suite room ,Private bathroom,371.70-374.08," 14,814.90 - 14,909.76",40,13 - 15
-The Garden Halls,Single en suite room,Private bathroom,314.16," 12,521.52",40,9.5
-Sidney Webb House,Single en suite room,Private bathroom,221.90-244.65," 8,844.30 - 9,751.05",40,10.2 - 12.1
-Sidney Webb House,3 bedroom flat,Shared bathroom,277.90,"11,076.30",40,12.1
-Sidney Webb House,Double en suite room,Private bathroom,290.85," 11,592.45",40,20.1
-Sidney Webb House,Double studio,Private bathroom,336.70," 13,419.90",40,21.3
-Sidney Webb House,Queen studio,Private bathroom,331.45,"13,210.65",40,22.5
-urbanest Westminster Bridge,Single room,Shared bathroom,285.23-310.76,"14,412.50",50,8.5
-urbanest Westminster Bridge,Single en suite room,Private bathroom,286.90-346.90,"14,345.00 - 17,345.00",50,13.4
-urbanest Westminster Bridge,Twin en suite room,Private bathroom,227.09-240.22,"11,808.50",50,25.3
-Lilian Knowles House,Single en suite room,Private bathroom,198.86-242.35,"9,914.59.47 - 12,082.88",50,8 - 14
+Name,Room Type,Bathroom Type,Price(£/week),Size Approximation(m²)
+College Hall,Single room ,Shared bathroom,289.73,12
+College Hall,Single en suite room ,Private bathroom,332.43,14
+College Hall,Double en suite room ,Private bathroom,392.63,17
+International Hall,Single room,Shared bathroom,266.28,8.95
+International Hall,Single studio,Private bathroom,294.98-301.28,16.4 - 18.9
+International Hall,Double studio,Private bathroom,321.93,18.9
+Butler's Wharf Residence,Single room,Shared bathroom,194.60-267.40,10
+Butler's Wharf Residence,Twin room,Shared bathroom,127.40-153.65,14
+Butler's Wharf Residence,Double room,Shared bathroom,278.95,15
+Bankside House,Single room,Shared bathroom,259.70,12.5
+Bankside House,Single en suite room,Private bathroom,277.20-297.15,15.66 - 17.11
+Bankside House,Twin en suite room,Private bathroom,167.65-186.20,23.55 - 25.32
+Carr-Saunders Hall,Single room,Shared bathroom,257.25,9
+Carr-Saunders Hall,Single room with queen bed,Shared bathroom,259.35,9
+Carr-Saunders Hall,Twin room,Shared bathroom,173.25,20
+Carr-Saunders Hall,Twin en suite room,Private bathroom,185.50,20
+Connaught Hall,Single room,Shared bathroom,273.63,9
+High Holborn Residence,Single room,Shared bathroom,317.80,9.5 - 12.6
+High Holborn Residence,Single room with queen bed,Shared bathroom,333.90,9.5 - 12.6
+High Holborn Residence,Single en suite room,Private bathroom,333.20,9.5 - 12.6
+High Holborn Residence,Twin en suite room,Private bathroom,184.45,16
+urbanest Westminster Bridge,Single room,Shared bathroom,285.23-310.76,8.5
+urbanest Westminster Bridge,Single en suite room,Private bathroom,286.90-346.90,13.4
+urbanest Westminster Bridge,Twin en suite room,Private bathroom,227.09-240.22,25.3
+urbanest Westminster Bridge,Single studio,Private bathoom,420.03-458.32,22.1
+Lilian Knowles House,Single en suite room,Private bathroom,198.86-242.35,8 - 14
+Lilian Knowles House,Single studio,Private bathroom,263.59-303.15,12 - 22
+Lilian Knowles House,One-bed flat,Private bathroom,303.15-336.43,21 - 27
+Passfield Hall,Single room,Shared bathroom,231.00-274.75,6.2 - 15.3
+Passfield Hall,Single en suite room,Private bathroom,287.35,9
+Passfield Hall,Twin room,Shared bathroom,158.90-166.60,17.6 - 23
+Passfield Hall,Twin en suite room,Private bathroom,182.70,17.6 - 23
+Passfield Hall,Triple room,Shared bathroom,129.85-140.70,31 
+Nutford House,Single room,Shared bathroom,236.88-263.48,6.4
+Nutford House,Twin room,Shared bathroom,183.40,6.4
+Rosebery Hall,Single room,Shared bathroom,247.80-263.90,10.5 - 11
+Rosebery Hall,Twin room,Shared bathroom,168.70,15.5 - 17.5
+Rosebery Hall,Twin en suite room,Private bathroom,185.50,17.5
+The Garden Halls,Single room ,Shared bathroom,269.64-288.75,10
+The Garden Halls,Single en suite room,Private bathroom,358.61,12.60 - 15.50
+The Garden Halls,Single en suite room ,Private bathroom,371.70-374.08,13 - 15
+The Garden Halls,Single en suite room,Private bathroom,314.16,9.5
+Sidney Webb House,Single en suite room,Private bathroom,221.90-244.65,10.2 - 12.1
+Sidney Webb House,3 bedroom flat,Shared bathroom,277.90,12.1
+Sidney Webb House,Double en suite room,Private bathroom,290.85,20.1
+Sidney Webb House,Double studio,Private bathroom,336.70,21.3
+Sidney Webb House,Queen studio,Private bathroom,331.45,22.5
