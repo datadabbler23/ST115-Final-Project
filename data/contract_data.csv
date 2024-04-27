@@ -1,4 +1,11 @@
 Name,Room Type,Bathroom Type,Price(£/week),Size Approximation(m²)
+urbanest Westminster Bridge,Single room,Shared bathroom,285.23-310.76,8.5
+urbanest Westminster Bridge,Single en suite room,Private bathroom,286.90-346.90,13.4
+urbanest Westminster Bridge,Twin en suite room,Private bathroom,227.09-240.22,25.3
+urbanest Westminster Bridge,Single studio,Private bathroom,420.03-458.32,22.1
+Lilian Knowles House,Single en suite room,Private bathroom,198.86-242.35,8 - 14
+Lilian Knowles House,Single studio,Private bathroom,263.59-303.15,12 - 22
+Lilian Knowles House,One-bed flat,Private bathroom,303.15-336.43,21 - 27
 College Hall,Single room ,Shared bathroom,289.73,12
 College Hall,Single en suite room ,Private bathroom,332.43,14
 College Hall,Double en suite room ,Private bathroom,392.63,17
@@ -20,13 +27,6 @@ High Holborn Residence,Single room,Shared bathroom,317.80,9.5 - 12.6
 High Holborn Residence,Single room with queen bed,Shared bathroom,333.90,9.5 - 12.6
 High Holborn Residence,Single en suite room,Private bathroom,333.20,9.5 - 12.6
 High Holborn Residence,Twin en suite room,Private bathroom,184.45,16
-urbanest Westminster Bridge,Single room,Shared bathroom,285.23-310.76,8.5
-urbanest Westminster Bridge,Single en suite room,Private bathroom,286.90-346.90,13.4
-urbanest Westminster Bridge,Twin en suite room,Private bathroom,227.09-240.22,25.3
-urbanest Westminster Bridge,Single studio,Private bathoom,420.03-458.32,22.1
-Lilian Knowles House,Single en suite room,Private bathroom,198.86-242.35,8 - 14
-Lilian Knowles House,Single studio,Private bathroom,263.59-303.15,12 - 22
-Lilian Knowles House,One-bed flat,Private bathroom,303.15-336.43,21 - 27
 Passfield Hall,Single room,Shared bathroom,231.00-274.75,6.2 - 15.3
 Passfield Hall,Single en suite room,Private bathroom,287.35,9
 Passfield Hall,Twin room,Shared bathroom,158.90-166.60,17.6 - 23
